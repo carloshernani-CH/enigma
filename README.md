@@ -10,6 +10,7 @@ Clone o repositório e navegue até o diretório principal.
 
 ```bash
 git clone https://github.com/carloshernani-CH/enigma
+cd enigma
 ```
 
 ## Uso
